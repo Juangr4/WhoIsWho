@@ -1,0 +1,53 @@
+body {
+	text-align: center;
+	background-color: white;
+	background-image: linear-gradient(#B695C0, #87CEEB);
+}
+
+#persons {
+	background: rgba(1, 1, 1, 0);
+	width: 100%;
+	display: inline-block;
+}
+#persons img {
+	border: 1px solid black;
+	margin: 2px;
+	display: inline-block;
+	width: 18%;
+	max-width: 130px;
+	height: auto;
+}
+
+h1 {
+	font-size: 8vw;
+	text-align: center;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+#selected {
+	border: 1px solid grey;
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 0px;
+}
+
+#selected img {
+	width: 20%;
+	max-width: 100px;
+	height: auto;
+}
+
+button {
+	background-color: #B695C0;
+	padding: 5px;
+	width: 20vw;
+	font-size: 2vw;
+}
+
+footer {
+	padding: 20px;
+	background: rgba(1, 1, 1, 0.2);
+}
